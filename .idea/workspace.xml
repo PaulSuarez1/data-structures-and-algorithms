@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-structures-and-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-structures-and-algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D01_ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D01_ArrayReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D01_ArrayReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/D01_ArrayReverseTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,7 +238,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32914045" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
