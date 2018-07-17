@@ -8,10 +8,12 @@ public class LinkedList {
         this.root = null;
     }
 // no loop required. prepends new node as the root
-    public void prepend(int data) {
+    public int prepend(int data) {
         ListNode prependNode = new ListNode(data);
         prependNode.next = this.root;
         this.root = prependNode;
+//        return data;
+        return data;
     }
 
     public boolean isEmpty() {
@@ -62,7 +64,7 @@ public class LinkedList {
     }
 
     // this method appends data nodes to the end of the LinkedList
-    public void append(int data) {
+    public int append(int data) {
 
         ListNode appendNode = new ListNode(data);
         ListNode current = this.root;
@@ -71,6 +73,8 @@ public class LinkedList {
             current = current.next;
         }
         current.next = appendNode;
+//        return data;
+        return data;
     }
 // this method finds the requested value and inserts a new one before it without dropping the list
     public void insertBefore(int value, int newValue) {

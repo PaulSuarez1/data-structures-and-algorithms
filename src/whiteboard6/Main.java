@@ -25,7 +25,7 @@ public class Main {
 
         ll.printList(ll.size());
 
-        System.out.println("Input index in get. Output value: " + ll.get(2));
+//        System.out.println("Input index in get. Output value: " + ll.get(2));
 
 
 
