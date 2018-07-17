@@ -10,6 +10,7 @@ public class Main {
         ll.prepend(33);
         ll.prepend(4);
         ll.prepend(56);
+        ll.prepend(30);
 
         if (ll.isEmpty()) {
             System.out.println("empty foo");
@@ -17,7 +18,7 @@ public class Main {
 
         System.out.println("ll: " + ll.size());
 
-        ll.printList();
+        ll.printList(ll.size());
 
     }
 

@@ -36,34 +36,33 @@ public class LinkedList {
         return total;
     }
 
-    public int get(int index) {
-        int n = 0;
+    public int get(int length) {
+        int loop = 0;
         ListNode current = this.root;
 
-        while (n < index) {
-            n++;
+        while (loop < length) {
+
             current = current.next;
             System.out.println(current);
+            loop++;
         }
         return current.data;
     }
 
-    public String printList(int index) {
-        int n = 0;
+    public ListNode printList(int length) {
+        int loop = 0;
         ListNode current = this.root;
 
-        while (n < index) {
+        while (loop < length) {
             if (current != null) {
-                System.out.println("the entire, raw ll: " + current);
-
-
+                System.out.println("the entire, raw ll: " + current.data);
             }
 
             current = current.next;
-            n++;
+            loop++;
         }
 
-        return printList(1);
+        return current;
     }
 
 }
