@@ -50,9 +50,9 @@ class MainTest {
     void prepend() {
         LinkedList test1 = new LinkedList();
 
-        int result = test1.prepend(5);
+        ListNode result = test1.prepend(5);
         int expected = 5;
-        assertEquals(expected, result);
+        assertEquals(expected, result.data);
     }
 
 }

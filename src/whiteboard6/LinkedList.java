@@ -28,12 +28,12 @@ public class LinkedList {
 ///////////////////////////////////////////////////
 
 // no loop required. prepends new node as the root
-    public int prepend(int data) {
+    public ListNode prepend(int data) {
         ListNode prependNode = new ListNode(data);
         prependNode.next = this.root;
         this.root = prependNode;
 //        return data;
-        return data;
+        return prependNode;
     }
 
     public boolean isEmpty() {
