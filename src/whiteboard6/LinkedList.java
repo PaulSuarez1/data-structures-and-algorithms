@@ -2,11 +2,31 @@ package whiteboard6;
 
 public class LinkedList {
 
-    ListNode root;
+    public ListNode root;
 
     public LinkedList() {
         this.root = null;
     }
+///////////////////////////////////////////////////
+    public String toString() {
+
+        if (this.root == null) {
+            return "[]";
+
+        }
+        String result = "";
+
+        ListNode current = this.root;
+        while (current != null) {
+            result += current.data;
+
+            current = current.next;
+        }
+
+        return "[" + result + "]";
+    }
+///////////////////////////////////////////////////
+
 // no loop required. prepends new node as the root
     public int prepend(int data) {
         ListNode prependNode = new ListNode(data);
@@ -80,6 +100,13 @@ public class LinkedList {
     public void insertBefore(int value, int newValue) {
         ListNode insertBefore = new ListNode(newValue);
         ListNode current = this.root;
+
+        if (this.root.data == value) {
+            insertBefore.next = this.root;
+            this.root = insertBefore;
+            return;
+            // or just this.prepend(newValue);
+        }
 
         while (current.next.data != value) {
             current = current.next;
