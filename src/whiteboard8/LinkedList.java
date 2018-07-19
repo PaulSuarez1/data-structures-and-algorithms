@@ -148,20 +148,45 @@ public class LinkedList {
 
 
 
+// MERGE two instances of the linkedlist constructor into a single linkedlist.
 
+    public LinkedList Merge(LinkedList list1, LinkedList list2) {
+        LinkedList temp = new LinkedList();
 
-    public ListNode Merge(LinkedList list1, LinkedList list2) {
-        ListNode firstList = new ListNode(list1);
-        ListNode secondList = new ListNode(list2);
+        ListNode current1 = list1.root;
+        ListNode current2 = list2.root;
 
-        ListNode current =
+        temp.root = current1;
+        temp.append(current2.data);
 
-        return root;
+        while (current1 != null && current2 != null) {
+            temp.append(current1.next.data);
+            current1 = current1.next;
+
+            temp.append(current2.next.data);
+            current2 = current2.next;
+        }
+
+        if (current1.next != null && current2.next != null) {
+            while (current1.next != null) {
+                temp.append(current1.next.data);
+            }
+            while (current2.next != null) {
+                temp.append(current2.next.data);
+            }
+        }
+
+        return temp;
     }
 
 
 
 }
+
+
+
+
+
 
 
 
