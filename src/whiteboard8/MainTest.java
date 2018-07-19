@@ -52,7 +52,7 @@ class MainTest {
 
 
     @Test
-    void prepend() {
+    void prependTest() {
         LinkedList test1 = new LinkedList();
 
         ListNode result = test1.prepend(5);
