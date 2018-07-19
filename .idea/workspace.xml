@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/whiteboard8/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard8/MainTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
