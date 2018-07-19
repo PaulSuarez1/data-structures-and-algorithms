@@ -10,3 +10,6 @@
 ## Algorithm:
 ### - Run a loop for each list to determine lengths. 
 ### - Create a function/method that takes in the node data from each list and current.next from the other in a loop.
+
+![](IMG_8404.JPG)
+![](IMG_8637.JPG)
