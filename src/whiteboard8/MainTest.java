@@ -1,14 +1,5 @@
 package whiteboard8;
 
-import whiteboard8.LinkedList;
-import whiteboard8.ListNode;
-
-import org.junit.jupiter.api.Test;
-
-
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
-
 class MainTest {
     public LinkedList empty;
     public LinkedList l1;
@@ -50,14 +41,14 @@ class MainTest {
 //        assertEquals("[12, 14, 23, 45, 64]", l5.toString());
 //    }
 
-
-    @Test
-    void prependTest() {
-        LinkedList test1 = new LinkedList();
-
-        ListNode result = test1.prepend(5);
-        int expected = 5;
-        assertEquals(expected, result.data);
-    }
+//
+//    @Test
+//    void prependTest() {
+//        LinkedList test1 = new LinkedList();
+//
+//        ListNode result = test1.prepend(5);
+//        int expected = 5;
+//        assertEquals(expected, result.data);
+//    }
 
 }
