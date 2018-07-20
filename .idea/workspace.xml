@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/whiteboard9/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard9/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard9/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whiteboard9/IMG_1950.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whiteboard9/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/whiteboard8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structures-and-algorithms/whiteboard8/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whiteboard8/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard8/MainTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whiteboard9/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="224" lean-forward="true" selection-end-line="255" />
+            <state relative-caret-position="218">
+              <caret line="202" selection-start-line="202" selection-end-line="202" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/whiteboard9/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -45,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/whiteboard9/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="427">
-              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+              <caret line="115" selection-start-line="115" selection-end-line="115" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/whiteboard9/Main.java" />
         <option value="$PROJECT_DIR$/src/whiteboard9/MainTest.java" />
         <option value="$PROJECT_DIR$/src/whiteboard9/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard9/README.md" />
       </list>
     </option>
   </component>
@@ -185,6 +194,7 @@
       <recent name="whiteboard7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/whiteboard9" />
       <recent name="$PROJECT_DIR$/src/whiteboard7" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
@@ -420,12 +430,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3595388" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3595388" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21607143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21607143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="6" />
@@ -469,16 +479,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/whiteboard2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -809,7 +809,7 @@
     <entry file="file://$PROJECT_DIR$/src/whiteboard9/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
-          <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -818,8 +818,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard9/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="224" lean-forward="true" selection-end-line="255" />
+        <state relative-caret-position="218">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard9/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
