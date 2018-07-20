@@ -1,4 +1,4 @@
-package whiteboard8;
+package whiteboard9;
 
 public class LinkedList {
 
@@ -7,7 +7,7 @@ public class LinkedList {
     public LinkedList() {
         this.root = null;
     }
-    ///////////////////////////////////////////////////
+///////////////////////////////////////////////////
     public String toString() {
 
         if (this.root == null) {
@@ -27,7 +27,7 @@ public class LinkedList {
     }
 ///////////////////////////////////////////////////
 
-    // no loop required. prepends new node as the root
+// no loop required. prepends new node as the root
     public int prepend(int data) {
         ListNode prependNode = new ListNode(data);
         prependNode.next = this.root;
@@ -98,7 +98,7 @@ public class LinkedList {
 //        return data;
         return data;
     }
-    // this method finds the requested value and inserts a new one before it without dropping the list
+// this method finds the requested value and inserts a new one before it without dropping the list
     public void insertBefore(int value, int newValue) {
         ListNode insertBefore = new ListNode(newValue);
         ListNode current = this.root;
@@ -129,7 +129,7 @@ public class LinkedList {
         current.next = insertAfter;
 
     }
-    // WHITEBOARD 7 ASSIGNMENT
+// WHITEBOARD 7 ASSIGNMENT
     public ListNode kthElement(int k) {
 //        ListNode node = new ListNode(k);
         ListNode current = this.root;

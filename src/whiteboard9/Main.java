@@ -1,4 +1,4 @@
-package whiteboard8;
+package whiteboard9;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,19 +6,19 @@ public class Main {
 
 
 
-        LinkedList ll1 = new LinkedList();
-        LinkedList ll2 = new LinkedList();
+            LinkedList ll1 = new LinkedList();
+            LinkedList ll2 = new LinkedList();
 
-        ll1.prepend(1);
-        ll1.prepend(3);
-        ll1.prepend(5);
+            ll1.prepend(1);
+            ll1.prepend(3);
+            ll1.prepend(5);
 
-        ll2.prepend(2);
-        ll2.prepend(4);
-        ll2.prepend(6);
+            ll2.prepend(2);
+            ll2.prepend(4);
+            ll2.prepend(6);
 
-        LinkedList result = LinkedList.Merge(ll1, ll2);
-        result.toString();
+            LinkedList result = LinkedList.Merge(ll1, ll2);
+            result.toString();
 
 
 

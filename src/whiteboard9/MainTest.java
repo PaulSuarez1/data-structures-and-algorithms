@@ -1,4 +1,4 @@
-package whiteboard8;
+package whiteboard9;
 
 import org.junit.jupiter.api.Test;
 
@@ -92,7 +92,7 @@ class MainTest {
     }
 
     @Test
-    void hasLoop() {
+        void hasLoop() {
 
 
         ListNode n1 = new ListNode(1);
