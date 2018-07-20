@@ -7,7 +7,7 @@ public class LinkedList {
     public LinkedList() {
         this.root = null;
     }
-///////////////////////////////////////////////////
+    ///////////////////////////////////////////////////
     public String toString() {
 
         if (this.root == null) {
@@ -27,7 +27,7 @@ public class LinkedList {
     }
 ///////////////////////////////////////////////////
 
-// no loop required. prepends new node as the root
+    // no loop required. prepends new node as the root
     public int prepend(int data) {
         ListNode prependNode = new ListNode(data);
         prependNode.next = this.root;
@@ -83,6 +83,8 @@ public class LinkedList {
         return current;
     }
 
+
+
     // this method appends data nodes to the end of the LinkedList
     public int append(int data) {
 
@@ -96,7 +98,7 @@ public class LinkedList {
 //        return data;
         return data;
     }
-// this method finds the requested value and inserts a new one before it without dropping the list
+    // this method finds the requested value and inserts a new one before it without dropping the list
     public void insertBefore(int value, int newValue) {
         ListNode insertBefore = new ListNode(newValue);
         ListNode current = this.root;
@@ -127,7 +129,7 @@ public class LinkedList {
         current.next = insertAfter;
 
     }
-// WHITEBOARD 7 ASSIGNMENT
+    // WHITEBOARD 7 ASSIGNMENT
     public ListNode kthElement(int k) {
 //        ListNode node = new ListNode(k);
         ListNode current = this.root;
@@ -150,33 +152,77 @@ public class LinkedList {
 
 // MERGE two instances of the linkedlist constructor into a single linkedlist.
 
-    public LinkedList Merge(LinkedList list1, LinkedList list2) {
+    public static LinkedList Merge(LinkedList list1, LinkedList list2) {
         LinkedList temp = new LinkedList();
 
         ListNode current1 = list1.root;
         ListNode current2 = list2.root;
 
-        temp.root = current1;
-        temp.append(current2.data);
+        temp.root = new ListNode(current1.data);
+//        temp.append(current2.data);
+        temp.root.next = new ListNode(current2.data);
 
-        while (current1 != null && current2 != null) {
+
+        while (current1.next != null && current2.next != null) {
+
             temp.append(current1.next.data);
-            current1 = current1.next;
-
             temp.append(current2.next.data);
+
+            current1 = current1.next;
             current2 = current2.next;
+
         }
 
-        if (current1.next != null && current2.next != null) {
+        if (current1.next != null) {
             while (current1.next != null) {
                 temp.append(current1.next.data);
             }
+
+        } else {
             while (current2.next != null) {
                 temp.append(current2.next.data);
             }
         }
 
         return temp;
+    }
+
+
+
+    ////// check if linked list has a loop
+
+    public boolean hasLoop() {
+
+        boolean loopieboi;
+        if (this.root != null) {
+
+            //  create two nodes
+            ListNode current1 = this.root;
+            ListNode current2 = this.root;
+
+            loopieboi = true;
+
+
+            while (current1 != null || current2 != null) {
+                current1 = current1.next;
+                current2 = current2.next.next;
+
+                if (current1 == current2) {
+                    loopieboi = true;
+                    break;
+
+                } else if (current1 == null || current2 == null || current1.next == null || current2.next.next == null) {
+                    loopieboi = false;
+                    break;
+                }
+            }
+
+        } else {
+            loopieboi = false;
+
+        }
+
+        return loopieboi;
     }
 
 

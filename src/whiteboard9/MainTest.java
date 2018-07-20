@@ -87,7 +87,7 @@ class MainTest {
         expected.printList(expected.size());
         result.printList(expected.size());
 
-        assertEquals(expected, result);
+        assertEquals(expected.toString(), result.toString());
 
     }
 

@@ -83,6 +83,8 @@ public class LinkedList {
         return current;
     }
 
+
+
     // this method appends data nodes to the end of the LinkedList
     public int append(int data) {
 
