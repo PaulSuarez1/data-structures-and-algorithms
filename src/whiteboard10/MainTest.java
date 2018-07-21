@@ -117,17 +117,30 @@ class MainTest {
     @Test
     void ReverseListTest () {
 
+        LinkedList listy = new LinkedList();
+
+
         ListNode n1 = new ListNode(1);
-        ListNode n2 = new ListNode(7);
-        ListNode n3 = new ListNode(2);
-        ListNode n4 = new ListNode(3);
+        ListNode n2 = new ListNode(2);
+        ListNode n3 = new ListNode(3);
+        ListNode n4 = new ListNode(4);
         ListNode n5 = new ListNode(5);
 
+        listy.root = n1;
         n1.next = n2;
         n2.next = n3;
         n3.next = n4;
         n4.next = n5;
-        n5.next = n2; // point n5 back to n2 to create the loop
+
+
+        String expected = "[54321]";
+        String result = listy.reverseList(listy).toString();
+//        LinkedList result = LinkedList.reverseList(listy);
+
+        System.out.println(expected);
+        System.out.println(result);
+
+        assertEquals(expected, result);
 
     }
 
