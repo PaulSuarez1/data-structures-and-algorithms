@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/whiteboard10/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard10/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whiteboard10/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard10/MainTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whiteboard10/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="228" column="33" selection-start-line="228" selection-start-column="22" selection-end-line="228" selection-end-column="33" />
+            <state relative-caret-position="348">
+              <caret line="228" column="28" selection-start-line="228" selection-start-column="28" selection-end-line="228" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -40,11 +42,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/whiteboard10/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state relative-caret-position="441">
+              <caret line="129" column="63" selection-start-line="129" selection-start-column="63" selection-end-line="129" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,8 +59,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -116,9 +121,10 @@
         <option value="$PROJECT_DIR$/src/whiteboard8/Main.java" />
         <option value="$PROJECT_DIR$/src/whiteboard8/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/whiteboard10/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/whiteboard10/MainTest.java" />
         <option value="$PROJECT_DIR$/src/whiteboard10/Main.java" />
         <option value="$PROJECT_DIR$/src/whiteboard10/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard10/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard10/MainTest.java" />
       </list>
     </option>
   </component>
@@ -176,6 +182,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="whiteboard10" />
       <recent name="whiteboard6" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -205,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest">
+  <component name="RunManager" selected="JUnit.MainTest.ReverseListTest">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="whiteboard8.Main" />
       <module name="data-structures-and-algorithms" />
@@ -277,19 +284,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MainTest.mergeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainTest.ReverseListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="whiteboard9.*" />
+          <option name="PATTERN" value="whiteboard10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="whiteboard9" />
-      <option name="MAIN_CLASS_NAME" value="whiteboard9.MainTest" />
-      <option name="METHOD_NAME" value="mergeTest" />
+      <option name="PACKAGE_NAME" value="whiteboard10" />
+      <option name="MAIN_CLASS_NAME" value="whiteboard10.MainTest" />
+      <option name="METHOD_NAME" value="ReverseListTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -339,19 +346,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.MainTest.mergeTest" />
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.MainTest" />
       <item itemvalue="JUnit.MainTest (1)" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.MainTest.ReverseListTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest.ReverseListTest" />
         <item itemvalue="JUnit.MainTest" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.MainTest (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MainTest.mergeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -369,9 +376,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MainTest_hasLoop - 2018.07.20 at 08h 58m 26s.xml">
-      <configuration name="MainTest.hasLoop" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MainTest_hasLoop - 2018.07.20 at 09h 00m 26s.xml">
       <configuration name="MainTest.hasLoop" configurationId="JUnit" />
     </history-entry>
@@ -399,6 +403,9 @@
     <history-entry file="MainTest - 2018.07.20 at 13h 21m 18s.xml">
       <configuration name="MainTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MainTest_ReverseListTest - 2018.07.21 at 13h 52m 21s.xml">
+      <configuration name="MainTest.ReverseListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
@@ -412,12 +419,12 @@
       <window_info anchor="right" id="Capture Analysis" order="10" />
       <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="13" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32914045" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.32914045" />
       <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info id="Capture Tool" order="12" />
       <window_info id="Designer" order="9" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.25" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="13" />
@@ -441,16 +448,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/whiteboard2/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard1/D01_ArrayReverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -743,13 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whiteboard10/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard10/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -760,10 +750,27 @@
     <entry file="file://$PROJECT_DIR$/src/whiteboard10/ListNode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard10/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard10/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="228" column="33" selection-start-line="228" selection-start-column="22" selection-end-line="228" selection-end-column="33" />
+        <state relative-caret-position="348">
+          <caret line="228" column="28" selection-start-line="228" selection-start-column="28" selection-end-line="228" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard10/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="129" column="63" selection-start-line="129" selection-start-column="63" selection-end-line="129" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
