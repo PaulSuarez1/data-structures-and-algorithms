@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/whiteboard10/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard10/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard10/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whiteboard10/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard10/LinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +20,8 @@
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/whiteboard10/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="227" selection-start-line="227" selection-end-line="227" />
+            <state relative-caret-position="445">
+              <caret line="228" column="33" selection-start-line="228" selection-start-column="22" selection-end-line="228" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -182,13 +178,14 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="whiteboard6" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="whiteboard10" />
       <recent name="whiteboard9" />
       <recent name="whiteboard8" />
       <recent name="whiteboard7" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/whiteboard9" />
@@ -405,6 +402,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="bottom" id="TODO" order="13" />
@@ -764,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard10/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="227" selection-start-line="227" selection-end-line="227" />
+        <state relative-caret-position="445">
+          <caret line="228" column="33" selection-start-line="228" selection-start-column="22" selection-end-line="228" selection-end-column="33" />
         </state>
       </provider>
     </entry>

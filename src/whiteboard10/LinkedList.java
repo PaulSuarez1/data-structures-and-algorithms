@@ -225,7 +225,14 @@ public class LinkedList {
         return loopieboi;
     }
 
+    // reversing linked list:
+    public LinkedList ReverseList (LinkedList listy) {
+        LinkedList reverse = new LinkedList();
 
+
+        return reverse;
+
+    }
 
 
 
