@@ -1,7 +1,6 @@
 package whiteboard10;
 
 import org.junit.jupiter.api.Test;
-import whiteboard10.ListNode;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -112,6 +111,23 @@ class MainTest {
         ll.root = n1; // attach n1 as the root manually.
 
         assertEquals(true, ll.hasLoop());
+
+    }
+
+    @Test
+    void ReverseListTest () {
+
+        ListNode n1 = new ListNode(1);
+        ListNode n2 = new ListNode(7);
+        ListNode n3 = new ListNode(2);
+        ListNode n4 = new ListNode(3);
+        ListNode n5 = new ListNode(5);
+
+        n1.next = n2;
+        n2.next = n3;
+        n3.next = n4;
+        n4.next = n5;
+        n5.next = n2; // point n5 back to n2 to create the loop
 
     }
 

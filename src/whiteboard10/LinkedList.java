@@ -229,6 +229,14 @@ public class LinkedList {
     public LinkedList ReverseList (LinkedList listy) {
         LinkedList reverse = new LinkedList();
 
+        ListNode currentPrevious = null;
+        ListNode currentNow = this.root;
+        ListNode currentNext = null;
+
+        while (currentNext != null) {
+            currentNext = currentNow;
+
+        }
 
         return reverse;
 
