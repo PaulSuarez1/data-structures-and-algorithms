@@ -226,19 +226,21 @@ public class LinkedList {
     }
 
     // reversing linked list:
-    public LinkedList ReverseList (LinkedList listy) {
-        LinkedList reverse = new LinkedList();
+    public static LinkedList reverseList (LinkedList listy) {
 
-        ListNode currentPrevious = null;
-        ListNode currentNow = this.root;
-        ListNode currentNext = null;
+        ListNode current = listy.root;
+        ListNode next = null;
+        ListNode previous = null;
 
-        while (currentNext != null) {
-            currentNext = currentNow;
-
+        while (current != null) {
+            next = current.next;
+            current.next = previous;
+            previous = current;
+            current = next;
         }
-
-        return reverse;
+        listy.root = previous;
+//        System.out.println(listy);
+        return listy;
 
     }
 
