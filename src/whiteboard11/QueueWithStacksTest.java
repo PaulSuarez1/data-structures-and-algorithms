@@ -29,4 +29,40 @@ class QueueWithStacksTest {
         assertEquals(expected, result);
     }
 
+    @Test
+    void dequeue2() {
+        QueueWithStacks<Integer> test = new QueueWithStacks<>();
+
+
+        test.queue(2);
+
+
+
+
+        int result = test.dequeue();
+        int expected = 2;
+
+        assertEquals(expected, result);
+
+
+
+    }
+
+    @Test
+    void dequeue3() {
+        QueueWithStacks<Integer> test = new QueueWithStacks<>();
+
+
+        test.queue(3);
+
+
+
+
+        int result = test.dequeue();
+        int expected = 3;
+
+        assertEquals(expected, result);
+
+    }
+
 }
