@@ -8,18 +8,18 @@ public class AnimalShelter {
     Queue<String> cat = new LinkedList<>();
 
     public String enqueue(String animal) {
-        if (animal == "dog") {
+        if (animal.equalsIgnoreCase("dog")) {
             dog.add(animal);
-        } else if (animal == "cat") {
+        } else if (animal.toUpperCase().equals("cat")) {
             cat.add(animal);
         }
         return animal;
     }
 
     public String dequeue(String pref) {
-        if (pref == "dog") {
+        if (pref.equalsIgnoreCase("dog")) {
            return dog.poll();
-        } else if (pref == "cat") {
+        } else if (pref.toUpperCase().equals("cat")) {
            return cat.poll();
         }
         return "uhhhhh";

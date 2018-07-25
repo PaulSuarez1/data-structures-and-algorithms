@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/whiteboard12/IMG_1981.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard12/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whiteboard12/AnimalShelterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard12/AnimalShelterTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -227,7 +224,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532545487736" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532553851768" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -404,7 +401,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531180458923</updated>
-      <workItem from="1532538375232" duration="3506000" />
+      <workItem from="1532538375232" duration="4350000" />
     </task>
     <servers />
   </component>
@@ -441,11 +438,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3506000" />
+    <option name="totallyTimeSpent" value="4350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14590965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
