@@ -8,7 +8,7 @@ class AnimalShelterTest {
 
     @Test
     void enqueue() {
-        
+
     }
 
     @Test
