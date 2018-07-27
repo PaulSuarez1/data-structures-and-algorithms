@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/whiteboard14/MaxStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whiteboard14/IMG_1994.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whiteboard14/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whiteboard14/MaxStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard14/MaxStack.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,26 +28,26 @@
         <counts>
           <entry key="JPG" value="1" />
           <entry key="java" value="8" />
-          <entry key="md" value="4" />
+          <entry key="md" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
           <entry key="JAVA" value="8" />
-          <entry key="Markdown" value="4" />
+          <entry key="Markdown" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1705" />
-          <entry key="md" value="901" />
+          <entry key="java" value="1721" />
+          <entry key="md" value="1196" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1705" />
-          <entry key="Markdown" value="901" />
+          <entry key="JAVA" value="1721" />
+          <entry key="Markdown" value="1196" />
         </counts>
       </usages-collector>
     </session>
@@ -64,10 +64,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/whiteboard14/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whiteboard14/MaxStackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+            <state relative-caret-position="855">
+              <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/whiteboard2/ArrayShift.java" />
         <option value="$PROJECT_DIR$/src/whiteboard2/README.md" />
         <option value="$PROJECT_DIR$/src/whiteboard3/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/whiteboard3/BinarySearchTest.java" />
@@ -148,8 +159,9 @@
         <option value="$PROJECT_DIR$/src/whiteboard13/MultiBracketValidation.java" />
         <option value="$PROJECT_DIR$/src/whiteboard13/README.md" />
         <option value="$PROJECT_DIR$/src/whiteboard13/MultiBracketValidationTest.java" />
-        <option value="$PROJECT_DIR$/src/whiteboard14/MaxStack.java" />
         <option value="$PROJECT_DIR$/src/whiteboard14/MaxStackTest.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard14/MaxStack.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard14/README.md" />
       </list>
     </option>
   </component>
@@ -205,7 +217,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532714726598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532718061226" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -223,11 +235,11 @@
       <recent name="whiteboard10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/whiteboard14" />
       <recent name="$PROJECT_DIR$/src/whiteboard13" />
       <recent name="$PROJECT_DIR$/src/whiteboard12" />
       <recent name="$PROJECT_DIR$/src/whiteboard11" />
       <recent name="$PROJECT_DIR$/src/whiteboard10" />
-      <recent name="$PROJECT_DIR$/src/whiteboard9" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="whiteboard10" />
@@ -388,15 +400,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MultiBracketValidationTest_charPairs4 - 2018.07.26 at 11h 53m 53s.xml">
-      <configuration name="MultiBracketValidationTest.charPairs4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MultiBracketValidationTest - 2018.07.26 at 11h 55m 33s.xml">
-      <configuration name="MultiBracketValidationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MultiBracketValidationTest - 2018.07.26 at 11h 57m 22s.xml">
-      <configuration name="MultiBracketValidationTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MultiBracketValidationTest - 2018.07.26 at 12h 00m 46s.xml">
       <configuration name="MultiBracketValidationTest" configurationId="JUnit" />
     </history-entry>
@@ -418,15 +421,24 @@
     <history-entry file="MaxStackTest - 2018.07.27 at 10h 58m 34s.xml">
       <configuration name="MaxStackTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MaxStackTest - 2018.07.27 at 11h 03m 24s.xml">
+      <configuration name="MaxStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest - 2018.07.27 at 11h 05m 12s.xml">
+      <configuration name="MaxStackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxStackTest - 2018.07.27 at 11h 05m 29s.xml">
+      <configuration name="MaxStackTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12551000" />
+    <option name="totallyTimeSpent" value="13911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14590965" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14590965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -436,7 +448,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,13 +475,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/whiteboard5/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard5/MatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -760,16 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whiteboard13/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard13/MultiBracketValidation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -782,6 +777,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard14/MaxStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard14/MaxStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -789,13 +794,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whiteboard14/MaxStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard13/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" column="12" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard14/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
