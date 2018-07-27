@@ -61,4 +61,18 @@ class MultiBracketValidationTest {
         assertEquals(expected, result);
 
     }
+
+    @Test
+    void charPairs5() {
+        // testing with with alternating brackets
+        String input = "{[}(])";
+
+        boolean expected = true;
+        boolean result = MultiBracketValidation.charPairs(input);
+
+        System.out.println("test 4 result " + MultiBracketValidation.charPairs(input));
+
+        assertEquals(expected, result);
+
+    }
 }
