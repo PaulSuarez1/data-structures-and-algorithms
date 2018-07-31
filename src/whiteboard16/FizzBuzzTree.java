@@ -7,12 +7,10 @@ public  class FizzBuzzTree {
             if(current.left != null) {
                 FizzBuzzTree(current.left);
             }
-
-            fizzing(current.data);
-
             if (current.right != null) {
                 FizzBuzzTree(current.right);
             }
+            fizzing(current.data);
         }
         return null;
     }
