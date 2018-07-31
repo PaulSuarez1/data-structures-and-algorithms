@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/whiteboard15/EeneyMeeneyMineyMoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard15/EeneyMeeneyMineyMoeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard15/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whiteboard16/FizzBuzzTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whiteboard16/FizzBuzzTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whiteboard16/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,26 +28,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JPG" value="1" />
-          <entry key="java" value="12" />
+          <entry key="java" value="15" />
           <entry key="md" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="15" />
           <entry key="Markdown" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2069" />
+          <entry key="java" value="2681" />
           <entry key="md" value="1522" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2069" />
+          <entry key="JAVA" value="2681" />
           <entry key="Markdown" value="1522" />
         </counts>
       </usages-collector>
@@ -56,33 +56,34 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/whiteboard15/EeneyMeeneyMineyMoe.java">
+        <entry file="file://$PROJECT_DIR$/src/whiteboard16/FizzBuzzTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="240">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/whiteboard15/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="373" selection-start-line="5" selection-start-column="373" selection-end-line="5" selection-end-column="373" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/whiteboard16/FizzBuzzTreeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/whiteboard15/EeneyMeeneyMineyMoeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/whiteboard16/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+            <state relative-caret-position="135">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,9 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/whiteboard3/README.md" />
-        <option value="$PROJECT_DIR$/src/whiteboard4/AdjacentProduct.java" />
-        <option value="$PROJECT_DIR$/src/whiteboard4/AdjacentProductTest.java" />
         <option value="$PROJECT_DIR$/src/whiteboard4/README.md" />
         <option value="$PROJECT_DIR$/src/whiteboard5/matrix.java" />
         <option value="$PROJECT_DIR$/src/whiteboard5/Matrix.java" />
@@ -163,6 +161,9 @@
         <option value="$PROJECT_DIR$/src/whiteboard15/EeneyMeeneyMineyMoe.java" />
         <option value="$PROJECT_DIR$/src/whiteboard15/EeneyMeeneyMineyMoeTest.java" />
         <option value="$PROJECT_DIR$/src/whiteboard15/README.md" />
+        <option value="$PROJECT_DIR$/src/whiteboard16/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard16/FizzBuzzTree.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard16/FizzBuzzTreeTest.java" />
       </list>
     </option>
   </component>
@@ -202,7 +203,7 @@
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="whiteboard15" type="462c0819:PsiDirectoryNode" />
+              <item name="whiteboard16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,7 +219,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532809634136" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533065472760" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -229,11 +230,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="whiteboard16" />
       <recent name="whiteboard15" />
       <recent name="whiteboard14" />
       <recent name="whiteboard13" />
       <recent name="whiteboard12" />
-      <recent name="whiteboard11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/whiteboard14" />
@@ -267,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EeneyMeeneyMineyMoeTest">
+  <component name="RunManager" selected="JUnit.FizzBuzzTreeTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -284,40 +285,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="whiteboard15" />
       <option name="MAIN_CLASS_NAME" value="whiteboard15.EeneyMeeneyMineyMoeTest" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="whiteboard15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="whiteboard15" />
-      <option name="MAIN_CLASS_NAME" value="whiteboard15.EeneyMeeneyMineyMoeTest" />
-      <option name="METHOD_NAME" value="eenyMeenyMineyMoe" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="whiteboard15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="whiteboard15" />
-      <option name="MAIN_CLASS_NAME" value="whiteboard15.EeneyMeeneyMineyMoeTest" />
-      <option name="METHOD_NAME" value="eenyMeenyMineyMoe2" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -357,6 +324,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FizzBuzzTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whiteboard16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="whiteboard16" />
+      <option name="MAIN_CLASS_NAME" value="whiteboard16.FizzBuzzTreeTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTreeTest.FizzBuzzTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whiteboard16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="whiteboard16" />
+      <option name="MAIN_CLASS_NAME" value="whiteboard16.FizzBuzzTreeTest" />
+      <option name="METHOD_NAME" value="FizzBuzzTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -372,19 +371,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe" />
       <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest" />
-      <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe2" />
       <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe3" />
       <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe4" />
+      <item itemvalue="JUnit.FizzBuzzTreeTest" />
+      <item itemvalue="JUnit.FizzBuzzTreeTest.FizzBuzzTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FizzBuzzTreeTest" />
+        <item itemvalue="JUnit.FizzBuzzTreeTest.FizzBuzzTree" />
         <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest" />
         <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe4" />
         <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe3" />
-        <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe2" />
-        <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe" />
       </list>
     </recent_temporary>
   </component>
@@ -403,39 +402,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxStackTest - 2018.07.27 at 11h 05m 12s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MaxStackTest - 2018.07.27 at 11h 05m 29s.xml">
-      <configuration name="MaxStackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QueueWithStacksTest - 2018.07.28 at 13h 03m 23s.xml">
-      <configuration name="QueueWithStacksTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EeneyMeeneyMineyMoeTest_eenyMeenyMineyMoe - 2018.07.28 at 13h 20m 44s.xml">
-      <configuration name="EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EeneyMeeneyMineyMoeTest - 2018.07.28 at 13h 21m 21s.xml">
-      <configuration name="EeneyMeeneyMineyMoeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EeneyMeeneyMineyMoeTest - 2018.07.28 at 13h 22m 15s.xml">
-      <configuration name="EeneyMeeneyMineyMoeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EeneyMeeneyMineyMoeTest_eenyMeenyMineyMoe2 - 2018.07.28 at 13h 22m 37s.xml">
-      <configuration name="EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EeneyMeeneyMineyMoeTest_eenyMeenyMineyMoe3 - 2018.07.28 at 13h 22m 44s.xml">
-      <configuration name="EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe3" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EeneyMeeneyMineyMoeTest_eenyMeenyMineyMoe4 - 2018.07.28 at 13h 23m 04s.xml">
       <configuration name="EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe4" configurationId="JUnit" />
     </history-entry>
     <history-entry file="EeneyMeeneyMineyMoeTest - 2018.07.28 at 13h 23m 12s.xml">
       <configuration name="EeneyMeeneyMineyMoeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 18m 11s.xml">
+      <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 22m 50s.xml">
+      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 27m 52s.xml">
+      <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 29m 52s.xml">
+      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 30m 21s.xml">
+      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 30m 37s.xml">
+      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 30m 57s.xml">
+      <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 31m 07s.xml">
+      <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17309000" />
+    <option name="totallyTimeSpent" value="20304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="6" />
@@ -448,7 +447,6 @@
       <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
@@ -460,7 +458,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32799146" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -469,6 +467,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14590965" />
@@ -508,9 +507,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/whiteboard7/ListNodek.java" />
-    <entry file="file://$PROJECT_DIR$/src/whiteboard7/MainTestk.java" />
-    <entry file="file://$PROJECT_DIR$/src/whiteboard7/LinkedListk.java" />
     <entry file="file://$PROJECT_DIR$/src/whiteboard7/Maink.java" />
     <entry file="file://$PROJECT_DIR$/src/whiteboard7/KthElement.java" />
     <entry file="file://$PROJECT_DIR$/src/whiteboard7/Main.java">
@@ -840,6 +836,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard15/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard15/EeneyMeeneyMineyMoe.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -847,13 +853,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/whiteboard15/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="373" selection-start-line="5" selection-start-column="373" selection-end-line="5" selection-end-column="373" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/whiteboard16/FizzBuzzTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard16/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard16/FizzBuzzTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
