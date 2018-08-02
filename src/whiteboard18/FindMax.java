@@ -41,7 +41,7 @@ public class FindMax {
         if (root != null) {
             findMax.add(root);
                 maxValue  = findMax.peek().data;
-
+            System.out.println("this is the peek to set value to something in the tree: " + maxValue);
 
             while (!findMax.isEmpty()) {
 
@@ -62,7 +62,7 @@ public class FindMax {
                 }
             }
         }
-        System.out.println("This is the official max value in the the tree: " + maxValue);
+        System.out.println("This is the official max value in the the tree:                  " + maxValue);
         return maxValue;
     }
 }
