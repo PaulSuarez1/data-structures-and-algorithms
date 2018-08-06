@@ -7,7 +7,7 @@ public class flip {
 
 
             if (rootNode == null) {
-                return false;
+                return true;
             } else {
 
                 TreeNode left = rootNode.left;
