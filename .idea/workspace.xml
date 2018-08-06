@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/whiteboard19/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard19/isIdentical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whiteboard19/isIdenticalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whiteboard19/isIdentical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard19/isIdentical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whiteboard19/isIdenticalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard19/isIdenticalTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,13 +39,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3790" />
+          <entry key="java" value="3975" />
           <entry key="md" value="2451" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3790" />
+          <entry key="JAVA" value="3975" />
           <entry key="Markdown" value="2451" />
         </counts>
       </usages-collector>
@@ -54,29 +53,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whiteboard19/isIdentical.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="339">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/whiteboard19/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/whiteboard19/isIdenticalTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="1275">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,9 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/whiteboard7/Maink.java" />
-        <option value="$PROJECT_DIR$/src/whiteboard7/MainTestk.java" />
-        <option value="$PROJECT_DIR$/src/whiteboard7/README.md" />
         <option value="$PROJECT_DIR$/src/whiteboard7/LinkedListk.java" />
         <option value="$PROJECT_DIR$/src/whiteboard7/ListNode.java" />
         <option value="$PROJECT_DIR$/src/whiteboard7/KthElement.java" />
@@ -156,6 +150,9 @@
         <option value="$PROJECT_DIR$/src/whiteboard18/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/whiteboard18/FindMax.java" />
         <option value="$PROJECT_DIR$/src/whiteboard18/README.md" />
+        <option value="$PROJECT_DIR$/src/whiteboard19/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard19/isIdenticalTest.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard19/isIdentical.java" />
       </list>
     </option>
   </component>
@@ -205,7 +202,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533514286791" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533515550945" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -254,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindMax">
+  <component name="RunManager" selected="JUnit.isIdenticalTest">
     <configuration name="BreadthFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="whiteboard17.BreadthFirst" />
       <module name="data-structures-and-algorithms" />
@@ -285,21 +282,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EeneyMeeneyMineyMoeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="data-structures-and-algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="whiteboard15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="whiteboard15" />
-      <option name="MAIN_CLASS_NAME" value="whiteboard15.EeneyMeeneyMineyMoeTest" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -342,6 +324,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="isIdenticalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures-and-algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whiteboard19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="whiteboard19" />
+      <option name="MAIN_CLASS_NAME" value="whiteboard19.isIdenticalTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
@@ -351,19 +348,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest" />
       <item itemvalue="JUnit.FizzBuzzTreeTest" />
       <item itemvalue="JUnit.FizzBuzzTreeTest.FizzBuzzTree" />
       <item itemvalue="Application.BreadthFirst" />
       <item itemvalue="Application.FindMax" />
+      <item itemvalue="JUnit.isIdenticalTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.isIdenticalTest" />
         <item itemvalue="Application.FindMax" />
         <item itemvalue="Application.BreadthFirst" />
         <item itemvalue="JUnit.FizzBuzzTreeTest" />
         <item itemvalue="JUnit.FizzBuzzTreeTest.FizzBuzzTree" />
-        <item itemvalue="JUnit.EeneyMeeneyMineyMoeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -382,45 +379,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EeneyMeeneyMineyMoeTest_eenyMeenyMineyMoe4 - 2018.07.28 at 13h 23m 04s.xml">
-      <configuration name="EeneyMeeneyMineyMoeTest.eenyMeenyMineyMoe4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EeneyMeeneyMineyMoeTest - 2018.07.28 at 13h 23m 12s.xml">
-      <configuration name="EeneyMeeneyMineyMoeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 18m 11s.xml">
-      <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 22m 50s.xml">
-      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 27m 52s.xml">
-      <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 29m 52s.xml">
-      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 30m 21s.xml">
-      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTreeTest_FizzBuzzTree - 2018.07.31 at 12h 30m 37s.xml">
-      <configuration name="FizzBuzzTreeTest.FizzBuzzTree" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 30m 57s.xml">
       <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FizzBuzzTreeTest - 2018.07.31 at 12h 31m 07s.xml">
       <configuration name="FizzBuzzTreeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 13m 09s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 16m 17s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 18m 19s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 21m 02s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 21m 58s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 22m 20s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 23m 48s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="isIdenticalTest - 2018.08.05 at 17h 25m 15s.xml">
+      <configuration name="isIdenticalTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32262000" />
+    <option name="totallyTimeSpent" value="33395000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="840" height="1028" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29949874" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29949874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -429,7 +426,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -437,7 +434,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32799146" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32799146" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -882,22 +879,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard19/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/whiteboard19/isIdenticalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard19/isIdentical.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="339">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard19/isIdenticalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
