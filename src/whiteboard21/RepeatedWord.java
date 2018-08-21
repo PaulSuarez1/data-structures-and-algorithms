@@ -9,11 +9,11 @@ public class RepeatedWord {
 
         String repeatedWord = null;
 
-        for (String word : wordsArr) {
-            if (!words.contains(wordsArr[Integer.parseInt(word)])) {
-                words.add(wordsArr[Integer.parseInt(word)]);
+        for (int i = 0; i < wordsArr.length; i++) {
+            if (!words.contains(wordsArr[i])) {
+                words.add(wordsArr[i]);
             } else {
-                repeatedWord = wordsArr[Integer.parseInt(word)];
+                repeatedWord = wordsArr[i];
                 return repeatedWord;
             }
         }
