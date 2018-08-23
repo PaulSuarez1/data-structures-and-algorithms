@@ -7,15 +7,23 @@ import java.util.Map;
 
 public class LeftJoin {
 
-    public Map mergeMaps (Map<String, String> firstMap, Map<String, String>  secondMap) {
-        firstMap = new HashMap<>();
-        secondMap = new HashMap<>();
+    public static Map<String, List<Object>> mergeMaps (Map<String, String> firstMap, Map<String, String>  secondMap) {
+//        firstMap = new HashMap<>();
+//        secondMap = new HashMap<>();
 
-        Map<String, ArrayList> joinedMap = new HashMap<>();
-        List<String> bothValues = new ArrayList<>();
-
+        Map<String, List<Object>> joinedMap = new HashMap<>();
 
 
+        for (String oo : firstMap.keySet()) {
+            List<Object> bothValues = new ArrayList<>();
+
+                bothValues.add(firstMap.get(oo));
+                bothValues.add(secondMap.get(oo));
+
+                joinedMap.put(oo, bothValues);
+
+        }
+        return joinedMap;
     }
 
 
