@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="" />
+=======
     <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
 
       <change afterPath="$PROJECT_DIR$/src/whiteboard23/IMG_2110.jpeg" afterDir="false" />
@@ -10,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/src/whiteboard23/LeftJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard23/LeftJoin.java" afterDir="false" />
 
     </list>
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,34 +47,50 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JPG" value="1" />
+<<<<<<< HEAD
+          <entry key="java" value="60" />
+=======
 
           <entry key="java" value="55" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
           <entry key="md" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
+<<<<<<< HEAD
+          <entry key="JAVA" value="60" />
+=======
 
           <entry key="JAVA" value="55" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
           <entry key="Markdown" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
+          <entry key="java" value="8853" />
+=======
 
           <entry key="java" value="7312" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
           <entry key="md" value="3522" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
+          <entry key="JAVA" value="8853" />
+=======
 
           <entry key="JAVA" value="7312" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
           <entry key="Markdown" value="3522" />
         </counts>
       </usages-collector>
@@ -82,11 +102,16 @@
 
         <entry file="file://$PROJECT_DIR$/src/whiteboard23/LeftJoin.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="444">
+              <caret line="132" column="15" selection-start-line="132" selection-start-column="15" selection-end-line="132" selection-end-column="18" />
+=======
             <state relative-caret-position="326">
               <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
             </state>
           </provider>
         </entry>
@@ -108,9 +133,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/whiteboard23/LeftJoinTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="338">
+              <caret line="25" column="5" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+=======
             <state relative-caret-position="405">
               <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="35" selection-end-column="39" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/whiteboard24/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -139,11 +181,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+=======
 
         <option value="$PROJECT_DIR$/src/whiteboard8/Main.java" />
         <option value="$PROJECT_DIR$/src/whiteboard8/LinkedList.java" />
 
         <option value="$PROJECT_DIR$/src/whiteboard10/ListNode.java" />
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
         <option value="$PROJECT_DIR$/src/whiteboard10/Main.java" />
         <option value="$PROJECT_DIR$/src/whiteboard10/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/whiteboard10/LinkedList.java" />
@@ -192,7 +237,13 @@
         <option value="$PROJECT_DIR$/src/whiteboard23/LeftJoinTest.java" />
         <option value="$PROJECT_DIR$/src/whiteboard23/LeftJoin.java" />
         <option value="$PROJECT_DIR$/src/whiteboard23/README.md" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/src/whiteboard24/Sort.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard24/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/whiteboard24/MergeSortTest.java" />
+=======
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       </list>
     </option>
   </component>
@@ -204,7 +255,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1680" />
+    <option name="width" value="840" />
     <option name="height" value="1028" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -231,14 +282,22 @@
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
             <path>
               <item name="data-structures-and-algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-structures-and-algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="whiteboard24" type="462c0819:PsiDirectoryNode" />
+            </path>
+=======
               <item name="whiteboard23" type="462c0819:PsiDirectoryNode" />
             </path>
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
           </expand>
           <select />
         </subPane>
@@ -252,9 +311,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535570884813" />
+=======
 
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535047807688" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -265,24 +328,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="whiteboard24" />
       <recent name="whiteboard23" />
       <recent name="whiteboard22" />
       <recent name="whiteboard21" />
       <recent name="whiteboard16" />
-      <recent name="whiteboard15" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/whiteboard23" />
-      <recent name="$PROJECT_DIR$/src/whiteboard10" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="whiteboard10" />
-      <recent name="whiteboard9" />
-      <recent name="whiteboard8" />
-      <recent name="whiteboard7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/whiteboard18" />
@@ -290,6 +340,19 @@
       <recent name="$PROJECT_DIR$/src/whiteboard16" />
       <recent name="$PROJECT_DIR$/src/whiteboard14" />
       <recent name="$PROJECT_DIR$/src/whiteboard13" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="whiteboard10" />
+      <recent name="whiteboard9" />
+      <recent name="whiteboard8" />
+      <recent name="whiteboard7" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/whiteboard23" />
+      <recent name="$PROJECT_DIR$/src/whiteboard10" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -304,6 +367,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="JUnit.MergeSortTest.mergeTest">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whiteboard24.MergeSort" />
+=======
 
   <component name="RunManager" selected="JUnit.LeftJoinTest">
 
@@ -314,23 +382,32 @@
       </method>
     </configuration>
     <configuration name="LeftJoinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <module name="data-structures-and-algorithms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="whiteboard23.*" />
+          <option name="PATTERN" value="whiteboard24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="whiteboard23" />
-      <option name="MAIN_CLASS_NAME" value="whiteboard23.LeftJoinTest" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftJoinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
 
     <configuration name="LeftJoinTest.mergeMapsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -340,18 +417,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="whiteboard23" />
       <option name="MAIN_CLASS_NAME" value="whiteboard23.LeftJoinTest" />
+<<<<<<< HEAD
+=======
 
       <option name="METHOD_NAME" value="mergeMapsTest" />
 
       <option name="TEST_OBJECT" value="method" />
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="LeftJoinTest.mergeMapsTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
 
     <configuration name="LeftJoinTest.mergeMapsTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -361,37 +445,54 @@
       </extension>
       <option name="PACKAGE_NAME" value="whiteboard23" />
       <option name="MAIN_CLASS_NAME" value="whiteboard23.LeftJoinTest" />
+<<<<<<< HEAD
+      <option name="METHOD_NAME" value="mergeMapsTest1" />
+=======
 
       <option name="METHOD_NAME" value="mergeMapsTest1" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="MergeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
 
     <configuration name="LeftJoinTest.mergeMapsTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="whiteboard23.*" />
+          <option name="PATTERN" value="whiteboard24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
+      <option name="PACKAGE_NAME" value="whiteboard24" />
+      <option name="MAIN_CLASS_NAME" value="whiteboard24.MergeSortTest" />
+=======
       <option name="PACKAGE_NAME" value="whiteboard23" />
       <option name="MAIN_CLASS_NAME" value="whiteboard23.LeftJoinTest" />
 
       <option name="METHOD_NAME" value="mergeMapsTest2" />
       <option name="TEST_OBJECT" value="method" />
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="MergeSortTest.mergeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+=======
 
     <configuration name="LeftJoinTest.mergeMapsTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <module name="data-structures-and-algorithms" />
       <extension name="coverage">
         <pattern>
@@ -399,9 +500,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+<<<<<<< HEAD
+      <option name="PACKAGE_NAME" value="whiteboard24" />
+      <option name="MAIN_CLASS_NAME" value="whiteboard24.MergeSortTest" />
+      <option name="METHOD_NAME" value="mergeTest" />
+=======
       <option name="PACKAGE_NAME" value="whiteboard23" />
       <option name="MAIN_CLASS_NAME" value="whiteboard23.LeftJoinTest" />
       <option name="METHOD_NAME" value="mergeMapsTest3" />
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -427,9 +534,20 @@
       <item itemvalue="JUnit.LeftJoinTest.mergeMapsTest" />
  
       <item itemvalue="JUnit.LeftJoinTest" />
-      <item itemvalue="JUnit.LeftJoinTest.mergeMapsTest2" />
-      <item itemvalue="JUnit.LeftJoinTest.mergeMapsTest3" />
       <item itemvalue="JUnit.LeftJoinTest.mergeMapsTest1" />
+<<<<<<< HEAD
+      <item itemvalue="JUnit.MergeSortTest" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="JUnit.MergeSortTest.mergeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MergeSortTest.mergeTest" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="JUnit.MergeSortTest" />
+        <item itemvalue="JUnit.LeftJoinTest" />
+        <item itemvalue="JUnit.LeftJoinTest.mergeMapsTest1" />
+=======
 
     </list>
     <recent_temporary>
@@ -440,6 +558,7 @@
         <item itemvalue="JUnit.LeftJoinTest.mergeMapsTest2" />
 
         <item itemvalue="JUnit.LeftJoinTest.mergeMapsTest" />
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       </list>
     </recent_temporary>
   </component>
@@ -466,49 +585,57 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeftJoinTest_mergeMapsTest3 - 2018.08.23 at 10h 43m 13s.xml">
-      <configuration name="LeftJoinTest.mergeMapsTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest_mergeMapsTest3 - 2018.08.23 at 10h 43m 33s.xml">
-      <configuration name="LeftJoinTest.mergeMapsTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest_mergeMapsTest3 - 2018.08.23 at 10h 43m 55s.xml">
-      <configuration name="LeftJoinTest.mergeMapsTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest - 2018.08.23 at 10h 44m 14s.xml">
-      <configuration name="LeftJoinTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest_mergeMapsTest3 - 2018.08.23 at 10h 44m 30s.xml">
-      <configuration name="LeftJoinTest.mergeMapsTest3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest - 2018.08.23 at 10h 44m 38s.xml">
-      <configuration name="LeftJoinTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest - 2018.08.23 at 10h 44m 53s.xml">
-      <configuration name="LeftJoinTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest_mergeMapsTest1 - 2018.08.23 at 10h 50m 50s.xml">
-      <configuration name="LeftJoinTest.mergeMapsTest1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LeftJoinTest_mergeMapsTest1 - 2018.08.23 at 10h 51m 23s.xml">
       <configuration name="LeftJoinTest.mergeMapsTest1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LeftJoinTest - 2018.08.23 at 10h 51m 39s.xml">
       <configuration name="LeftJoinTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MergeSortTest - 2018.08.28 at 13h 51m 10s.xml">
+      <configuration name="MergeSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 14m 00s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 14m 10s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 22m 09s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 23m 37s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 24m 15s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 26m 25s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 27m 16s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="64550000" />
+=======
 
     <option name="totallyTimeSpent" value="57071000" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="1028" extended-state="0" />
+    <frame x="0" y="22" width="840" height="1028" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2593985" />
+=======
 
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123931624" />
 
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -537,36 +664,6 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Database" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14590965" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39937106" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32799146" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -575,6 +672,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
 
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.0.0/junit-jupiter-api-5.0.0.jar!/org/junit/jupiter/api/Assertions.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -603,6 +702,7 @@
     <entry file="file://$PROJECT_DIR$/src/whiteboard10/IMG_1964.JPG">
       <provider selected="true" editor-type-id="images" />
     </entry>
+>>>>>>> f44898ce0f8950f0bf18db350fdd884e10f563da
     <entry file="file://$PROJECT_DIR$/src/whiteboard10/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
@@ -999,17 +1099,24 @@
     <entry file="file://$PROJECT_DIR$/src/whiteboard23/LeftJoinTest.java" />
     <entry file="file://$PROJECT_DIR$/src/whiteboard23/README.md" />
     <entry file="file://$PROJECT_DIR$/src/whiteboard23/LeftJoin.java" />
-    <entry file="file://$PROJECT_DIR$/src/whiteboard24/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/whiteboard24/Sort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/whiteboard24/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="132" column="15" selection-start-line="132" selection-start-column="15" selection-end-line="132" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard24/MergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="338">
+          <caret line="25" column="5" lean-forward="true" selection-end-line="35" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
