@@ -63,7 +63,7 @@ public class MergeSort {
 
     // ok, well that didn't work. Here's to trying again:
 
-    void merge(int arr[], int low, int middle, int high)
+   public void merge(int arr[], int low, int middle, int high)
     {
         int n1 = middle - low + 1;
         int n2 = high - middle;
@@ -111,7 +111,7 @@ public class MergeSort {
     }
 
 
-    void sort(int arr[], int low, int high)
+   public void sort(int arr[], int low, int high)
     {
         if (low < high)
         {
@@ -124,12 +124,13 @@ public class MergeSort {
         }
     }
 
-    static void printArray(int arr[])
+    public static int[] printArray(int[] arr)
     {
         int n = arr.length;
         for (int i = 0; i < n; ++i)
             System.out.print(arr[i] + " ");
         System.out.println();
+        return arr;
     }
 
 }
