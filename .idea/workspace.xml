@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/whiteboard24/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard24/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whiteboard24/MergeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whiteboard24/MergeSortTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3209d49-fb96-45c6-a5b1-1111148d2c5e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +44,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8805" />
+          <entry key="java" value="8853" />
           <entry key="md" value="3522" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8805" />
+          <entry key="JAVA" value="8853" />
           <entry key="Markdown" value="3522" />
         </counts>
       </usages-collector>
@@ -73,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/whiteboard24/MergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="338">
+              <caret line="25" column="5" lean-forward="true" selection-end-line="35" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -221,7 +218,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535570849421" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535570884813" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -411,15 +408,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeftJoinTest - 2018.08.23 at 10h 44m 38s.xml">
-      <configuration name="LeftJoinTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest - 2018.08.23 at 10h 44m 53s.xml">
-      <configuration name="LeftJoinTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LeftJoinTest_mergeMapsTest1 - 2018.08.23 at 10h 50m 50s.xml">
-      <configuration name="LeftJoinTest.mergeMapsTest1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LeftJoinTest_mergeMapsTest1 - 2018.08.23 at 10h 51m 23s.xml">
       <configuration name="LeftJoinTest.mergeMapsTest1" configurationId="JUnit" />
     </history-entry>
@@ -441,9 +429,18 @@
     <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 23m 37s.xml">
       <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 24m 15s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 26m 25s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest_mergeTest - 2018.08.29 at 12h 27m 16s.xml">
+      <configuration name="MergeSortTest.mergeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64230000" />
+    <option name="totallyTimeSpent" value="64550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="840" height="1028" extended-state="0" />
@@ -851,8 +848,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/whiteboard24/MergeSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="338">
+          <caret line="25" column="5" lean-forward="true" selection-end-line="35" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
