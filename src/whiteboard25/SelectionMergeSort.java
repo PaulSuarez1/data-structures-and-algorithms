@@ -1,51 +1,15 @@
 package whiteboard25;
 
+import whiteboard24.MergeSort;
+
 public class SelectionMergeSort {
 
     // merge sort from previous whiteboard.
     // About to write out the selection sort method and a comparison.
 
     public void merge (int arr[], int low, int middle, int high) {
-        int n1 = middle - low + 1;
-        int n2 = high - middle;
-
-        int left[] = new int [n1];
-        int right[] = new int [n2];
-
-    /*Copy data to temp arrays*/
-        for (int i = 0; i < n1; ++i) {
-            left[i] = arr[low + i];
-        }
-        for (int j = 0; j < n2; ++j) {
-            right[j] = arr[middle + 1 + j];
-        }
-
-            int i = 0, j = 0;
-
-        int k = low;
-        while (i < n1 && j < n2) {
-            if (left[i] <= right[j]) {
-                arr[k] = left[i];
-                i++;
-            } else {
-                arr[k] = right[j];
-                j++;
-            }
-            k++;
-        }
-
-        while (i < n1) {
-        arr[k] = left[i];
-        i++;
-        k++;
+        MergeSort.extract(arr, low, middle, high);
     }
-
-        while (j < n2) {
-        arr[k] = right[j];
-        j++;
-        k++;
-    }
-}
 
 
     public void sort (int arr[], int low, int high) {

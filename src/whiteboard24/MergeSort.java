@@ -63,14 +63,17 @@ public class MergeSort {
 
     // ok, well that didn't work. Here's to trying again:
 
-
     public void merge (int arr[], int low, int middle, int high) {
+        extract(arr, low, middle, high);
+    }
+
+    public static void extract(int[] arr, int low, int middle, int high) {
         int n1 = middle - low + 1;
         int n2 = high - middle;
 
         int left[] = new int [n1];
         int right[] = new int [n2];
-        
+
         for (int i = 0; i < n1; ++i) {
             left[i] = arr[low + i];
         }
@@ -104,7 +107,6 @@ public class MergeSort {
             k++;
         }
     }
-
 
     public void sort (int arr[], int low, int high) {
         if (low < high) {
