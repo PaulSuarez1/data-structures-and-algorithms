@@ -66,6 +66,8 @@ public class MergeSort {
     public void merge (int arr[], int low, int middle, int high) {
         extract(arr, low, middle, high);
     }
+    // my intelliJ freaked out and made me add the above when I brought my reworked class in from the selection merge sort.
+    // test works like it did before but
 
     public static void extract(int[] arr, int low, int middle, int high) {
         int n1 = middle - low + 1;
@@ -77,6 +79,7 @@ public class MergeSort {
         for (int i = 0; i < n1; ++i) {
             left[i] = arr[low + i];
         }
+
         for (int j = 0; j < n2; ++j) {
             right[j] = arr[middle + 1 + j];
         }
@@ -108,14 +111,16 @@ public class MergeSort {
         }
     }
 
-    public void sort (int arr[], int low, int high) {
-        if (low < high) {
-            int middle = (low + high) / 2;
+    // the below still sees this as a duplicate from SelectionMergeSort because I use the same mergeSort for both whitebaords.
+    public void sort (int arr[], int lowest, int highest) {
+        if (lowest < highest) {
 
-            sort(arr, low, middle);
-            sort(arr , middle + 1, high);
+            int middle = (lowest + highest) / 2;
 
-            merge(arr, low, middle, high);
+            sort(arr, lowest, middle);
+            sort(arr , middle + 1, highest);
+
+            merge(arr, lowest, middle, highest);
         }
     }
 
