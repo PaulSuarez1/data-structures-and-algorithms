@@ -85,14 +85,13 @@ public class SelectionMergeSort {
             arr[min] = arr[i];
             arr[i] = temp;
         }
-
     }
 
     public void printArraySelection (int arr[]) {
-
+        int n = arr.length;
+        for (int i = 0; i < n; i++) {
+            System.out.println(arr[i] + " ");
+        }
     }
-
     // comparison
-
-
 }
